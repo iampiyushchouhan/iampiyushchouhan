@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Piyush%20Chouhan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20%26%20Deep%20Learning%20Enthusiast%20%7C%20Building%20Intelligent%20Systems&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,30&height=300&section=header&text=Piyush%20Chouhan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20&amp;%20Deep%20Learning%20Enthusiast%20%7C%20Building%20Intelligent%20Systems&descSize=18&descAlignY=55" />
 </div>
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Universe!+🚀;AI+%26+ML+Enthusiast+from+Jodhpur+🏜️;Building+Tomorrow's+Technology+Today!;Deep+Learning+%7C+Full+Stack+%7C+Innovation" alt="Dynamic Typing Animation" />
