@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Universe!+🚀;AI+%26+ML+Enthusiast+from+Jodhpur+🏜️;Building+Tomorrow's+Technology+Today!;Deep+Learning+%7C+Full+Stack+%7C+Innovation" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Universe!+🚀;AI+%26+ML+Enthusiast;Building+Tomorrow's+Technology+Today!;Deep+Learning+%7C+Full+Stack+%7C+Innovation" alt="Dynamic Typing Animation" />
 </div>
 
 <br>
