@@ -11,10 +11,7 @@
 ### 🚀 **AI/ML | Deep Learning Enthusiast** 🚀
 📍 **Jodhpur, Rajasthan, India** | 💡 *"Code is poetry, AI is the future"*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-chouhan)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iampiyushchouhan@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iampiyushchouhan.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iampiyushchouhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iampiyushchouhan)
 
 </div>
 
@@ -85,9 +82,9 @@
 |---------|-------------|------------|--------|
 | 🫁 **TB Detection System** | AI-powered tuberculosis detection from chest X-rays using deep learning | `Python` `TensorFlow` `OpenCV` `Flask` | [![Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/iampiyushchouhan/tb-detection) |
 | 💰 **Salary Prediction ML** | Machine learning model to predict salaries based on experience and skills | `Python` `Scikit-learn` `Pandas` `Streamlit` | [![Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/iampiyushchouhan/salary-prediction) |
-| 🍷 **Wine Quality Analyzer** | Classification model for wine quality assessment using chemical properties | `Python` `Random Forest` `XGBoost` `Matplotlib` | [![Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/iampiyushchouhan/wine-quality) |
-| 🌐 **Content Translator Agent** | Intelligent multilingual content translator with NLP capabilities | `Python` `Transformers` `FastAPI` `React` | [![Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/iampiyushchouhan/translator-agent) |
-| 🏗️ **Full-Stack E-Commerce** | Complete e-commerce solution with modern UI and robust backend | `MERN Stack` `Redux` `JWT` `Stripe API` | [![Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/iampiyushchouhan/ecommerce-app) |
+| 🍷 **Wine Quality Analyzer** | Classification model for wine quality assessment using chemical properties | `Python` `Random Forest` `XGBoost` `Matplotlib` | [![Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/iampiyushchouhan/wine-quality-prediction-2) |
+| 🌐 **Content Translator Agent** | Intelligent multilingual content translator with NLP capabilities | `Python` `RAG` `Granite` `IBM-Cloud` ` watsonx.ai`| [![Repo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/iampiyushchouhan/Content-Translator-Agent-_IBM-Cloud) |
+
 
 ---
 
