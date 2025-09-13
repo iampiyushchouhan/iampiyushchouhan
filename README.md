@@ -54,11 +54,11 @@
 <div align="center">
 
 <!-- Repository Cards -->
-<a href="https://github.com/iampiyushchouhan/tb-detection">
+<a href="https://github.com/iampiyushchouhan/PROJECT_1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampiyushchouhan&repo=PROJECT_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Project 1" />
 </a>
 
-<a href="https://github.com/iampiyushchouhan/Salary-Prediction-2">
+<a href="https://github.com/iampiyushchouhan/PROJECT_2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampiyushchouhan&repo=PROJECT_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Project 2" />
 </a>
 
