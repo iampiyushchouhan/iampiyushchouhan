@@ -172,6 +172,10 @@
 
 ---
 
+[![An image of @iampiyushchouhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iampiyushchouhan)](https://holopin.io/@iampiyushchouhan)
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
